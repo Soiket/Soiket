@@ -1,3 +1,6 @@
+Hey! Nice to see you.
+Welcome to my page!
+I'm MD. Shimul, Fullstack developer from  Dhaka, Bangladesh.
 - 👋 Hi, I’m @Soiket
 - 👀 I’m interested in Laravel
 - 🌱 I’m currently learning Laravel, Mysql, Javascript, PHP, OOP.
