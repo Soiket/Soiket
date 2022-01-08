@@ -1,6 +1,7 @@
 <h1>Hey! Nice to see you.</h1>
-Welcome to my page!
-I'm MD. Shimul, Fullstack developer from  Dhaka, Bangladesh.
+<p>Welcome to my page!</p>
+I'm MD. Mynul Islam Soiket, Fullstack developer from  Dhaka, Bangladesh.<br>
+
 - 👋 Hi, I’m @Soiket
 - 👀 I’m interested in Laravel
 - 🌱 I’m currently learning Laravel, Mysql, Javascript, PHP, OOP.
