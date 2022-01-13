@@ -6,9 +6,8 @@ I'm <b>MD. Mynul Islam Soiket</b>, <p>Fullstack developer from <a target="_blank
 - 🔭 I’m currently working at <b>YetFix Limited</b> as a Web Developer.
 - 💞️ I’m looking to collaborate on Laravel based projects & IT Operations on any organizations. 
 - 📫 How to reach me: misoiket@gmail.com
-<div style="color:red">Facebook
+Facebook
 
-</div>
 
 <!---
 Soiket/Soiket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
