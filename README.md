@@ -6,7 +6,10 @@ I'm <b>MD. Mynul Islam Soiket</b>, <p>Fullstack developer from <a target="_blank
 - 🔭 I’m currently working at <b>YetFix Limited</b> as a Web Developer.
 - 💞️ I’m looking to collaborate on Laravel based projects & IT Operations on any organizations. 
 - 📫 How to reach me: misoiket@gmail.com
-<div><h3 style="color:red;">Facebook</h3></div>
+
+<p dir="auto"><a href="https://mdshemul48.github.io" rel="nofollow"><img src="https://camo.githubusercontent.com/a4f6cac3695dcca1a03210fbde4c9ccedb0a2413b1a80d98456d912d325aa85c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d23464637313339" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/mdshemul48/" rel="nofollow"><img src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="http://www.facebook.com/mdshemul48" rel="nofollow"><img src="https://camo.githubusercontent.com/9a80e93dca22e8bc345bef4e92799c1b6fb4481f996b1d69f3f9b0590f92c057/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
 
 <!---
