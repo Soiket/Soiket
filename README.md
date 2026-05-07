@@ -1,5 +1,4 @@
 
-# ☁️ Cloud Engineer Portfolio
 
 ## About Me
 
@@ -16,9 +15,6 @@ Passionate about automation, infrastructure reliability, cloud architecture, and
 ## Cloud Platforms
 
 * OpenStack
-* AWS
-* Azure
-* Google Cloud
 
 ## Containers & Orchestration
 
