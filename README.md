@@ -151,21 +151,10 @@ I write about infrastructure, cloud, and DevOps on [Medium](https://soiket.mediu
 Cloud-native infrastructure    ████████████████████  Active
 Kubernetes automation          ███████████████░░░░░  In Progress
 OpenStack architecture         ████████████████░░░░  Ongoing
-Infrastructure as Code         ███████████████████░  Active
+Infrastructure as Code         ███████████████████░  In Progress
 Scalable private cloud         ████████████████░░░░  Expanding
 ```
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soiket&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soiket&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-</div>
 
 ---
 
