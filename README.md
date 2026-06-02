@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-<h2 align="center">━━━━━━━━━━━ 𝗠𝘆𝗻𝘂𝗹 𝗜𝘀𝗹𝗮𝗺 𝗦𝗼𝗶𝗸𝗲𝘁 ━━━━━━━━━━━</h2>
+━━━━━━━━━━━ 𝗠𝘆𝗻𝘂𝗹 𝗜𝘀𝗹𝗮𝗺 𝗦𝗼𝗶𝗸𝗲𝘁 ━━━━━━━━━━━
 ```
 
 ### Cloud Engineer · Infrastructure Automation · Platform Engineering
