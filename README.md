@@ -1,8 +1,7 @@
 <div align="center">
 
 ```
-              █▀▄▀█ █▄█ █▄░█ █▄█ █░░   █ █▀ █░░ ▄▀█ █▀▄▀█   █▀ █▀█ █ █▄▀ █▀▀ ▀█▀
-              █░▀░█ ░█░ █░▀█ ░█░ █▄▄   █ ▄█ █▄▄ █▀█ █░▀░█   ▄█ █▄█ █ █░█ ██▄ ░█░
+┌────────────────────── MYNUL ISLAM SOIKET ──────────────────────┐
 ```
 
 ### Cloud Engineer · Infrastructure Automation · Platform Engineering
